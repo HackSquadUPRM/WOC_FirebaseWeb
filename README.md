@@ -1,3 +1,13 @@
+#How to Install 
+* install https://nodejs.org/en/download/
+* pull this repository 
+* cd into the repository location in your computer 
+* run npm install 
+* run npm start
+* go to localhost:8000
+
+<hr/>
+
 # `angular-seed` — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it
